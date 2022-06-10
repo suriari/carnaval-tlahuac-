@@ -1,0 +1,26 @@
+<html>
+	<head>
+	<title>
+	COMPARSA BARRIO FUERTE
+	</title>
+	</head>
+<body background=iglesia.jpg>
+<font color="black"</font>
+<hr color="purple" width=80% size="15%" align="center">
+<h2><center>COMPARSA BARRIO FUERTE</center></h2>
+<hr color="purple" width=80% size="15%" align="center">
+<p><img src="barriof.jpg" alt="Comparsa Barrio Fuerte " align="left" width="40%" right="50%">
+
+<p><b><center>ORIGEN DE LA COMPARSA BARRIO FUERTE</cemter></b></p>
+<p> Comienza sus actividades carnavalescas en 1979. Los iniciadores y organizadores de la Comparsa de Barrio Fuerte fueron los senores Mario Nogueron Galicia, Jorge Cedillo Martinez, Ramon Hernandez Meza, Juan Reyes Morales, Fernando Medina de la Chica y el profesor Sergio palacios Castaneda.</p> 
+ 
+<p><b><center>CUANDO COMIENZA</center></b></p>
+Comienzan desde el primer domingo de Cuaresma cuando interviene la comparsa Barrio Fuerte, que realiza su desfile partiendo del barrio de Zenzontlalpa, pasando por algunas calles como Carlos A. Vidal, Morelos, hasta llegar al centro del pueblo, y de ahi vuelven a su barrio por la calle San Francisco. 
+<font color="red">
+<p><b>DATO CURIOSO<b></p> 
+</font>
+<p>La comparsa desfila unicamente con disfraces de personajes feos, politicos, trabajadores del gobierno de la ciudad, de mujeres de la vida galante, trasvestis o animales como gorilas o representaciones del diablo o de la muerte, entre otros.</p>
+<hr>
+</body>
+</html>
+<bgsound src="carnaval.mp3" loop=infinite>

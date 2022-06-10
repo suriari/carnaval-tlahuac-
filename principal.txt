@@ -1,0 +1,27 @@
+<html>
+         <head>
+                   <title>
+                           PRINCIPAL
+                   </title>
+         </head>
+<body background=confeti.jpg>
+<center>
+           <h1><font color="white">
+                   DATOS DEL ALUMNO
+           </h1>
+</center>
+<br><br>
+<center>
+<h2>NOMBRE: Mejorada Chavarria Suri Ariadna.
+<br>
+GRUPO:2IV3.
+<br>
+TURNO:Vespertino.
+<br>
+PROFESOR:ING. Cesar Carapia Hernandez
+<br></h2>
+</center>
+</font>
+</body>
+</html>
+<bgsound src="carnaval.mp3" loop=infinite>

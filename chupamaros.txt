@@ -1,0 +1,28 @@
+<html>
+	<head>
+	<title>
+	COMPARSA INDEPENDIENTE CHUPAMAROS 
+	</title>
+	</head>
+<body background=arco.jpg>
+<font color="black"</font>
+<hr color="salmon" width=80% size="15%" align="center">
+<h2><center>COMPARSA INDEPENDIENTE CHUPAMAROS </center></h2>
+<hr color="salmon" width=80% size="15%" align="center">
+<p><img src="chupamaros.jpg" alt="Comparsa independiente chupamaros. " align="left" width="40%" right="50%">
+
+<p><b><center>ORIGEN DE LA COMPARSA INDEPENDIENTE CHUPAMAROS </cemter></b></p>
+<p>Fundada en 1969, la Comparsa Independiente Chupamaros, los integrantes del grupo de futbol CDO (Las Cebras) y un grupo de amigos, tuvieron la idea de tomar una comparsa de carnaval para que participara en dichas fiestas a partir del ano antes mencionado.</p>
+
+<p><b><center>PRIMERAS MESAS DIRECTIVAS</center></b></p>
+El primer comite o mesa directiva estaba integrado por Emiliano Flores  (presidente), Tiburcio Lugo Martinez (tesorero), y el nombre del secretario se desconoce. 
+<p>Dicha mesa directiva fue provisional, posteriormente, fue integrada una nueva mesa que quedo legalmente constituida: Jaime Valles Hernandez (presidente), Hector Gutierrez Martinez (tesorero) y Antonio Mancilla Martinez (secretario).</p>
+<font color="red">
+<p><b>DATO CURIOSO<b></p> 
+</font>
+<p> Esta comparsa es numerosa y realiza su desfile de disfraces desde el segundo domingo de Cuaresma, para terminar su participacion el cuarto domingo.</p> 
+<p>La comparsa lleva 27 anos participando en forma ininterrumpida. Esta comparsa es numerosa y realiza su desfile de disfraces desde el segundo.</p>
+<hr>
+</body>
+</html>
+<bgsound src="carnaval.mp3" loop=infinite>

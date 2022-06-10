@@ -1,0 +1,29 @@
+<html>
+	<head>
+	<title>
+	Club Juvenil San Francisco Tlaltenco
+	</title>
+	</head>
+<body background=maza.jpg>
+<font color="black"</font>
+<hr color="yellow" width=80% size="15%" align="center">
+<h2><center>Club Juvenil San Francisco Tlaltenco</center></h2>
+<hr color="yellow" width=80% size="15%" align="center">
+<p><img src="club.jpg" alt="Club Juvenil San Francisco Tlaltenco " align="left" width="40%" right="50%">
+
+<p><b><center>ORIGEN DEL CLUB JUVENIL SAN FRANCISCO TLALTENCO</cemter></b></p>
+<p>El Club Juvenil San Francisco Tlaltenco tuvo su origen y formacion en 1944, siendo director de la Escuela Primaria Plan de Ayala el profesor Wilfrido Gomez, quien sustituyo a la profesora Ramona Solis Perez.</p>
+<p>El profesor Gomez tuvo la idea de formar una agrupacion de jovenes que participaran en todos los actos sociales, culturales, recreativos y deportivos de la comunidad.</p> 
+
+<p><b><center>PRIMERAS MESAS DIRECTIVAS</center></b></p>
+Su primer presidente fue el senor Wenceslao Reyes Castaneda; como tesorero fue designado Angel Mendez Castaneda y como secretario fungio Jesus Reyes Castaneda.
+
+<p>En 1946 acordaron participar en la fiesta del Carnaval, pero a pocos dias del evento renunciaron a sus cargos y fueron rapidamente sustituidos por los senores Jose Galicia Leyte (presidente), Jesus Chavez Palacios (tesorero) y Ruben Nogueron Chirinos (secretario).</p>
+<font color="red">
+<p><b>DATO CURIOSO<b></p> 
+</font>
+<p>Su primera reina del carnaval fue la senorita Josefina Chavarria Chirinos. El motivo de su carro alegorico fue una aguila con un lapiz atravesado en su pico, porque estaban de moda los cuadernos escolares llamados el lapiz del aguila.</p>
+<hr>
+</body>
+</html>
+<bgsound src="carnaval.mp3" loop=infinite>

@@ -1,0 +1,31 @@
+<html>
+	<head>
+	<title>
+	ORGANIZACION DEL CARNAVAL EN TLAHUAC.
+	</title>
+	</head>
+<body background=mazatepec.jpg>
+<font color="black"</font>
+<hr color="yellow" width=80% size="15%" align="center">
+<h2><center>ORGANIZACION DE LAS COMPARSAS.</center></h2>
+<hr color="yellow" width=80% size="15%" align="center">
+
+<p><b><center>¿CUAL ES EL ORDEN Y ORGANIZACION EN LA QUE LAS COMPARSAS SALEN A DESFILAR?</center></b></p>
+
+<ul type=circle>
+<LI> Primer Domingo de Cuaresma: Comparsa Barrio Fuerte.
+<LI>El segundo domingo de Cuaresma: la Sociedad Benito Juarez, el Club Juvenil San Francisco Tlaltenco, el Grupo Guadalupano y el de Los Chupamaros. 
+<LI>Al terminar: Los integrantes de las comparsas Sociedad Benito Juarez y Club Juvenil San Francisco, se reunen en la Plaza Centenario para ensayar el baile de las cuadrillas.
+<LI>En el tercer domingo de Carnaval : La Sociedad Benito Juarez y El Club San Francisco Tlaltenco. 
+<LI>Y para cerrar con broche de oro se realiza un baile costeado por los familiares.
+</ul> 
+</p>
+<hr>
+<br>
+<br>
+<video>
+<img dynsrc="carna.mpeg" type="video/mpeg" loop=4 loop=infinite start=fileopen width=500 height=400>
+</video>
+<bgsound src="carnaval.mp3" loop=infinite>
+</body>
+</html>
